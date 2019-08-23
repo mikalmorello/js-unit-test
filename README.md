@@ -1,5 +1,7 @@
 # Javascript Unit Testing 
 
+Test repo for practicing Javascript unit testing using Mocha and Chai
+
 ## Install
 npm install
 
